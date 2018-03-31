@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: url(../images/bcg2.jpg) no-repeat center center fixed;
+  color: black;
+  text-align: center;
+}
+ ul li {
+   list-style: none;
+ }
+
+
+a {
+  color: #00B7FF;
+}
+
+p {
+  width: 60%;
+  margin-left: 20%;
+}

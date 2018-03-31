@@ -1,8 +1,37 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: url(../images/bcg.jpg) no-repeat center center fixed;
+  color: white;
+  text-align: center;
 }
+
+ ul li {
+   list-style: none;
+ }
 
 a {
   color: #00B7FF;
+  border: 1px solid white;
+  padding: 6px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+a:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+#hometitle {
+  margin-top: 200px;
+}
+
+p {
+  width: 60%;
+  margin-left: 20%;
+}
+
+h3 {
+  margin-top: 100px;
 }

@@ -1,1 +1,2 @@
-#Node App Pt. 2(AUDIO / VIDEO APP)
+# Video App #
+This is a video app for homework!
